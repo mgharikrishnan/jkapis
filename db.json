@@ -1,0 +1,67 @@
+{
+  "android": [
+    {
+      "version": 1.5,
+      "name": "Cupcake"
+    },
+	{
+      "version": 1.6,
+      "name": "Donut"
+    },
+	{
+      "version": 2.0,
+      "name": "Eclair"
+    },
+	{
+      "version": 2.2,
+      "name": "Froyo"
+    },
+	{
+      "version": 2.3,
+      "name": "Gingerbread"
+    },
+	{
+      "version": 3.0,
+      "name": "Honeycomb"
+    },
+	{
+      "version": 4.0,
+      "name": "Icdecream sandwich"
+    },
+	{
+      "version": 4.1,
+      "name": "JellyBean"
+    },
+	{
+      "version": 4.4,
+      "name": "KitKat"
+    },
+	{
+      "version": 5.0,
+      "name": "Lollipop"
+    },
+	{
+      "version": 6.0,
+      "name": "Marshmallow"
+    },
+	{
+      "version": 7.0,
+      "name": "Nougat"
+    },
+	{
+      "version": 8.0,
+      "name": "Oreo"
+    },
+	{
+      "version": 9.0,
+      "name": "Pie"
+    },
+	{
+      "version": 10.0,
+      "name": "Q"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
